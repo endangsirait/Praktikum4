@@ -34,6 +34,24 @@ Penjelasan :
 
 ![Screenshot 2024-10-29 103430](https://github.com/user-attachments/assets/19572364-4cc6-4357-bd41-786903d70250)
 
+Penjelasan:
+1. Pewarisan Kelas:
+* Kelas Lingkaran merupakan turunan dari kelas abstrak BangunDatar, yang berarti
+* kelas ini harus mengimplementasikan metode abstrak yang didefinisikan dalam BangunDatar, yaitu luas() dan keliling().
+
+2. Atribut:
+* private final int r;: Ini adalah atribut yang menyimpan nilai jari-jari lingkaran. Dideklarasikan sebagai private agar tidak dapat diakses langsung dari luar kelas. Kata kunci final menandakan bahwa nilai r tidak dapat diubah setelah diinisialisasi dalam konstruktor.
+
+3. Konstruktor:
+* public Lingkaran(int r): Konstruktor ini menerima parameter r untuk menginisialisasi atribut jari-jari. Kata kunci this digunakan untuk membedakan antara parameter r dan atribut kelas.
+
+4. Metode luas():
+
+@Override public float luas(): Metode ini mengimplementasikan rumus luas lingkaran dengan formula 𝜋𝑟2. Hasil perhitungan dikonversi menjadi tipe float sebelum dikembalikan.
+
+5. Metode keliling():
+
+@Override public float keliling(): Metode ini mengimplementasikan rumus keliling lingkaran dengan formula 2𝜋𝑟. Seperti metode luas(), hasilnya juga dikonversi menjadi tipe float.
 
 
 
