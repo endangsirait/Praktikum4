@@ -53,6 +53,11 @@ Penjelasan:
 
 @Override public float keliling(): Metode ini mengimplementasikan rumus keliling lingkaran dengan formula 2𝜋𝑟. Seperti metode luas(), hasilnya juga dikonversi menjadi tipe float.
 
+# Class Segitiga
+
+![Screenshot 2024-10-29 103455](https://github.com/user-attachments/assets/89a97b70-80b7-47f6-a8d3-88ae0abfb47a)
+
+
 
 
 
