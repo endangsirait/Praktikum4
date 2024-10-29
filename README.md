@@ -69,6 +69,21 @@ Kelas Segitiga menghitung luas dan keliling segitiga dengan atribut alas dan tin
   sisi miring = √(alas/2)2 + tinggi2
   
 Keliling adalah alas + 2 × sisi miring
+
+
+# Class Persegi
+
+![Screenshot 2024-10-29 103504](https://github.com/user-attachments/assets/04151ce5-8d73-4566-955c-11a18eb3d1fd)
+
+Penjelasan:
+Kelas Persegi adalah turunan dari BangunDatar untuk menghitung luas dan keliling persegi.
+
+* Atribut sisi: Panjang sisi persegi yang tetap setelah inisialisasi.
+* Konstruktor: Menerima nilai sisi.
+* Metode luas(): Menghitung luas dengan rumus sisi * sisi.
+* Metode keliling(): Menghitung keliling dengan rumus 4 * sisi.
+
+
   
 
 
