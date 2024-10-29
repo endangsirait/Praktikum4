@@ -84,6 +84,26 @@ Kelas Persegi adalah turunan dari BangunDatar untuk menghitung luas dan keliling
 * Metode keliling(): Menghitung keliling dengan rumus 4 * sisi.
 
 
-  
+ # OUTPUT
+
+ ![Screenshot 2024-10-29 103520](https://github.com/user-attachments/assets/f87ca2de-5e41-48bd-8546-a6548e1595e5)
+
+ Penjelasan
+Hasil perhitungan luas dan keliling untuk berbagai bangun datar dengan nilai yang diberikan:
+1. Lingkaran:
+
+* Luas: 153.93803
+* Keliling: 43.982296
+
+2. Segitiga:
+
+* Luas: 30.0
+* Keliling: 29.230375
+
+3. Persegi:
+
+* Luas: 16.0
+* Keliling: 16.0
+
 
 
