@@ -88,7 +88,8 @@ Kelas Persegi adalah turunan dari BangunDatar untuk menghitung luas dan keliling
 
  ![Screenshot 2024-10-29 103520](https://github.com/user-attachments/assets/f87ca2de-5e41-48bd-8546-a6548e1595e5)
 
- Penjelasan
+ Penjelasan:
+ 
 Hasil perhitungan luas dan keliling untuk berbagai bangun datar dengan nilai yang diberikan:
 1. Lingkaran:
 
