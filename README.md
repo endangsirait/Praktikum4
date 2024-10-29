@@ -65,7 +65,9 @@ Kelas Segitiga menghitung luas dan keliling segitiga dengan atribut alas dan tin
 * Metode luas(): Menggunakan rumus luas = 1/2 × alas × tinggi
 
 * Metode keliling(): Menghitung keliling dengan asumsi segitiga sama kaki, menggunakan teorema Pythagoras untuk mendapatkan panjang sisi miring:
+  
   sisi miring = √(alas/2)2 + tinggi2
+  
 Keliling adalah alas + 2 × sisi miring
   
 
